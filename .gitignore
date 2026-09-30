@@ -1,0 +1,25 @@
+# STM32CubeIDE workspace metadata (per-machine IDE state)
+.metadata/
+RemoteSystemsTempFiles/
+
+# Build outputs
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Launch configs are machine-specific
+*.launch
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
